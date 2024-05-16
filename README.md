@@ -1,4 +1,4 @@
-# estudos_clean_arch
+# estudos_arquitetura_clean_dart
 
 A new Flutter project.
 
